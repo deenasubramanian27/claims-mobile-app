@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "126468852088",
+    "project_id": "claims-automation",
+    "storage_bucket": "claims-automation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126468852088:android:65d62a3d4777114efa208d",
+        "android_client_info": {
+          "package_name": "com.example.claims"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126468852088-dhn4hcn348nih9gfomqfaljftssfm343.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANo5W7Vpf24E5TQKqIWhT0stf3vWHQLps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126468852088-dhn4hcn348nih9gfomqfaljftssfm343.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
